@@ -1,4 +1,4 @@
-# zsql-sqlite-dpo
+# zsql-postgres-dpo
 
 This is a dataset for training machine learning models to convert natural
 English language text into Postgres dialect SQL queries.
