@@ -36,7 +36,7 @@ To load the dataset using the HuggingFace `datasets` library:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("zerolink/zsql-sqlite-dpo")
+dataset = load_dataset("zerolink/zsql-postgres-dpo")
 ```
 
 To use in model fine-tuning, apply the following chat tokenizer:
